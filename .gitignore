@@ -1,0 +1,26 @@
+# Project exclude paths
+/.gradle/
+/Smart Calculator/task/build/
+/Smart Calculator/task/out/
+/Smart Calculator/task/out/production/classes/
+/Topics/Nested and inner classes/Clothing problem/out/
+/Topics/Nested and inner classes/Clothing problem/out/production/classes/
+/Topics/Nested and inner classes/Heroes and villains/out/
+/Topics/Nested and inner classes/Heroes and villains/out/production/classes/
+/Topics/Nested and inner classes/Theory/build/
+/Topics/Nested and inner classes/Theory/out/
+/Topics/Nested and inner classes/Theory/out/production/classes/
+/Topics/Nested and inner classes/Your vehicle/out/
+/Topics/Nested and inner classes/Your vehicle/out/production/classes/
+/Topics/Object declarations/Board game basics  Game/out/
+/Topics/Object declarations/Board game basics  Game/out/production/classes/
+/Topics/Object declarations/Me/out/
+/Topics/Object declarations/Me/out/production/classes/
+/Topics/Object declarations/Theory/out/
+/Topics/Object declarations/Theory/out/production/classes/
+/Topics/Quantifiers/OK Computer/out/
+/Topics/Quantifiers/OK Computer/out/production/classes/
+/Topics/Regexps in use/Aaaaaaa to a/out/
+/Topics/Regexps in use/Aaaaaaa to a/out/production/classes/
+/Topics/Regexps in use/Splitting with spaces/out/
+/Topics/Regexps in use/Splitting with spaces/out/production/classes/
